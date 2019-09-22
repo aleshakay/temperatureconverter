@@ -6,3 +6,9 @@ body {
     font-family: 'Lato', sans-serif;
     text-align: center;
 }
+
+.tempRadioBtn{
+    font-family: 'Oswald', sans-serif;
+    margin-top:  10em;
+    margin-left: 7em;
+}
