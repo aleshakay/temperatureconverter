@@ -19,3 +19,9 @@ textarea.form-control{
 .custom-radio{
     margin: 2px;
 }
+
+#tempcomment{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40pt; 
+    text-align: center
+}
