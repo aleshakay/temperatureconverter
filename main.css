@@ -12,3 +12,10 @@ body {
     margin-top:  10em;
     margin-left: 7em;
 }
+textarea.form-control{
+    width: 200px;
+    height: 100px;
+}
+.custom-radio{
+    margin: 2px;
+}
