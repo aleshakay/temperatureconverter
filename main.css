@@ -25,3 +25,8 @@ textarea.form-control{
     font-size: 40pt; 
     text-align: center
 }
+
+#tempConvertbtn{
+    text-align: center;
+    margin: 3em
+}
